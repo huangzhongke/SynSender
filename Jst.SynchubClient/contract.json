@@ -1,0 +1,42 @@
+﻿{
+  "spotRateOfferingId": "6357a805cdc7df7a2aa17c1f",
+  "premiumStatus": "",
+  "totalPricePremium": 0,
+  "promotionStatus": "",
+  "totalPricePromotion": 0,
+  "isPremiumSubscribed": false,
+  "isDetentionSubscribed": false,
+  "totalDetentionPrice": 0,
+  "recentContractNo": "",
+  "userId": "NBHJGYL",
+  "customerCode": "CN107368",
+  "customerName": "HUANJI SUPPLY CHAIN MANAGEMENT CO.,LTD.",
+  "porLocation": "NINGBO, ZHEJIANG",
+  "delLocation": "MELBOURNE, VIC",
+  "commodity": "FAK,CONSOLIDATED/MIXED LOADS OF ITEMS",
+  "containerList": [
+    {
+      "sortIndex": 1,
+      "cargoType": "DR",
+      "equipmentIsoCode": "22G1",
+      "equipmentName": "DRY 20",
+      "quantity": 1,
+      "equipmentSize": 20,
+      "equipmentONECntrTpSz": "D2",
+      "isFocus": false,
+      "isError": false
+    }
+  ],
+  "freightInfo": {},
+  "porLocationType": "CY",
+  "delLocationType": "CY",
+  "porLocationCode": "CNNGB",
+  "delLocationCode": "AUMEL",
+  "porUNLocationCode": "CNNGB",
+  "delUNLocationCode": "AUMEL",
+  "eventLogInfo": {
+    "isFromSavedQuote": false,
+    "isFromRecentSearch": false,
+    "deviceType": "Desktop"
+  }
+}

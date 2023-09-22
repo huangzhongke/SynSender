@@ -1,0 +1,18 @@
+{
+  "Redis": {
+    "ConnectionString": "192.168.1.10:6379,password=123456",
+    "DatabaseIndex": 15
+  },
+  "Client": {
+    "Name": "kmtc ",
+    "Code": "kmtc",
+    "Description": "kmtc拍仓"
+  },
+  "Email": {
+    "SmtpHost": "smtp.qq.com",
+    "SmtpPort": 587,
+    "SenderEmail": "1059308740@qq.com",
+    "ToEmail": "1059308740@qq.com,service10@nb-hj.com",
+    "Password": "ooxtdgbhccfcbaia"
+  }
+}
